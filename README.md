@@ -1,7 +1,7 @@
-# Analyzing Weather Data with PySpark
- Analyzing Weather Data on Python and Apache Spark
+# Analyzing Data with PySpark
+ Analyzing Data on Python and Apache Spark
 
-The sample temperature data is in table: City, Date, Temperature
+The sample data is in table: City, Date, Temperature
 
 Task includes the following:
 
